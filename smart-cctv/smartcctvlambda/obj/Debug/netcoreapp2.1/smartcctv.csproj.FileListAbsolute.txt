@@ -1,0 +1,11 @@
+C:\Users\User\Source\Repos\smartcctv\smart-cctv\smartcctvlambda\bin\Debug\netcoreapp2.1\smartcctv.deps.json
+C:\Users\User\Source\Repos\smartcctv\smart-cctv\smartcctvlambda\bin\Debug\netcoreapp2.1\smartcctv.runtimeconfig.json
+C:\Users\User\Source\Repos\smartcctv\smart-cctv\smartcctvlambda\bin\Debug\netcoreapp2.1\smartcctv.runtimeconfig.dev.json
+C:\Users\User\Source\Repos\smartcctv\smart-cctv\smartcctvlambda\bin\Debug\netcoreapp2.1\smartcctv.dll
+C:\Users\User\Source\Repos\smartcctv\smart-cctv\smartcctvlambda\bin\Debug\netcoreapp2.1\smartcctv.pdb
+C:\Users\User\Source\Repos\smartcctv\smart-cctv\smartcctvlambda\obj\Debug\netcoreapp2.1\smartcctv.csprojAssemblyReference.cache
+C:\Users\User\Source\Repos\smartcctv\smart-cctv\smartcctvlambda\obj\Debug\netcoreapp2.1\smartcctv.csproj.CoreCompileInputs.cache
+C:\Users\User\Source\Repos\smartcctv\smart-cctv\smartcctvlambda\obj\Debug\netcoreapp2.1\smartcctv.AssemblyInfoInputs.cache
+C:\Users\User\Source\Repos\smartcctv\smart-cctv\smartcctvlambda\obj\Debug\netcoreapp2.1\smartcctv.AssemblyInfo.cs
+C:\Users\User\Source\Repos\smartcctv\smart-cctv\smartcctvlambda\obj\Debug\netcoreapp2.1\smartcctv.dll
+C:\Users\User\Source\Repos\smartcctv\smart-cctv\smartcctvlambda\obj\Debug\netcoreapp2.1\smartcctv.pdb
